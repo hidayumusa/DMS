@@ -1,0 +1,27 @@
+body
+{
+
+background-color:#d2e8f5;
+}
+
+h1
+{
+font-size:2.0 em; color: #000000;
+}
+
+a
+{
+color: #0000b3;
+}
+
+th
+{
+padding-right: 5px; text-align: left;
+background-color:  #b3e6ff; color: #000000;
+}
+
+td
+{
+padding-right: 5px; text-align: left;
+background-color: #ffffff; color:  #000000;
+}
